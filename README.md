@@ -2,6 +2,8 @@
 
 https://omi-key.github.io/BMS_Integration/register.html
 
+更新日: 19/03/18 (sl 更新)
+
 # 何
 GENOCIDE を sl + st の 25 段階に合わせて混ぜたもの
 
@@ -33,5 +35,3 @@ st/sl には追従予定ですが IRT は死ぬほど大変だったので難易
 stan の ADVI をベースに optimizer まわりを書き直して収束をよくしました
 
 ELBO 相対変化量 1e-4 を収束条件にして 1000 サンプル抽出 * 12 回試行の平均
-
-更新日: 19/03/13
