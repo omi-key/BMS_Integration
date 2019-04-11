@@ -2,7 +2,7 @@
 
 https://omi-key.github.io/BMS_Integration/register.html
 
-更新日: 19/03/29 (st, sl 更新)
+更新日: 19/04/11 (st, sl 更新)
 
 # 何
 GENOCIDE を sl + st の 25 段階に合わせて混ぜたもの
